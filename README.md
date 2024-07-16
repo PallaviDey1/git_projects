@@ -1,16 +1,11 @@
-# meals
+Name-Pallavi Dey
+Reg no.-12104783
+
+# Meals App
 
 A new Flutter project.
+Basically ,it's an app showing different types of meals ,as we select any it will show the description and price of it.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![meals](https://github.com/user-attachments/assets/fb07f55a-6207-4dcc-ba7f-7c2ea21948d5)
