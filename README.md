@@ -1,16 +1,10 @@
-# flutter_classes
-
+#Expense Tracker app
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Name - Pallavi Dey
+Reg no-12104783
 
-A few resources to get you started if this is your first Flutter project:
+Its an app where we can track the expenses on everything like movies or on whatever we spended .
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-06-20 at 7 55 34 PM](https://github.com/user-attachments/assets/85dd7683-9e14-40cd-b636-87025d30e513)
