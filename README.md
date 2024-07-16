@@ -1,24 +1,9 @@
-<<<<<<< HEAD
+#Dice app
 FLUTTER PROJECTS :
-=======
-<<<<<<< HEAD
-FLUTTER PROJECTS :
-=======
-# flutter_application_dice
 
-A new Flutter project.
+Name - Pallavi Dey
+Reg no- 12104783
 
-## Getting Started
+Its an app where we can roll adice and play and it will give randon outputs as we roll it.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 0b8d4fc (Added my project)
->>>>>>> 1224168 (your message)
+![Uploading Screenshot (227).png…]()
